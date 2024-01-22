@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "575431673963",
+    "project_id": "eren-ozturk",
+    "storage_bucket": "eren-ozturk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575431673963:android:27aa53f938d19fd7e5892e",
+        "android_client_info": {
+          "package_name": "com.example.androidfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsulpdYa7yhy08K01HrsIFKKrmMi-4n-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575431673963:android:a94a8d18e6aa3b53e5892e",
+        "android_client_info": {
+          "package_name": "com.example.finalmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsulpdYa7yhy08K01HrsIFKKrmMi-4n-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575431673963:android:b6ae87ce571b94c6e5892e",
+        "android_client_info": {
+          "package_name": "com.example.mobilefinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsulpdYa7yhy08K01HrsIFKKrmMi-4n-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
